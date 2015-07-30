@@ -15,7 +15,7 @@
     font-family: arial;
 }
 .show { display: block !important; }
-.main-menu { width: 170px; background: #eee; }
+.main-menu { width: 170px; background: #F7F7F7; }
 
 .main-menu .header {
     background: #459AD6;
